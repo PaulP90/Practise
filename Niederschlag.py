@@ -1,6 +1,6 @@
 # Schreibe ein Programm mit dem Namen Niederschlag, das die durchschnittliche Niederschlagsmenge für die Monate April, Mai und Juni berechnet. 
 # Deklariere und initialisiere jeweils eine Variable für jeden Monat. 
-# Berechne anschließend die durchschnittliche Niederschlagsmenge sowohl in einem Rechenschritt(mit einer Variable z.B. average) als auch in zwei Rechenschritten und 
+# Berechne anschließend die durchschnittliche Niederschlagsmenge, sowohl in einem Rechenschritt(mit einer Variable z.B. average) als auch in zwei Rechenschritten und 
 # gib die Ergebnisse in folgender Form aus:
 
 # Niederschlag im April : 12
@@ -27,4 +27,4 @@ print("Niederschlag im April:", April)
 print("Niederschlag im Mai:", Mai)
 print("Niederschlag im Juni:", Juni)
 print("Durchschnitt 1 Schritt:", average)
-print("Durchschnitt 2 Schritt",zwei_Schritt2)
+print("Durchschnitt 2 Schritte",zwei_Schritt2)
