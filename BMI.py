@@ -9,4 +9,4 @@ Hoehe = float(input())
 
 BMI = (Gewicht/((Hoehe/100)**2))
 
-print("Dein BMI beträgt:", BMI)
+print("Ihr BMI beträgt:", BMI)
