@@ -1,4 +1,7 @@
-# Schreibe ein Programm mit dem Namen Niederschlag, das die durchschnittliche Niederschlagsmenge für die Monate April, Mai und Juni berechnet. Deklariere und initialisiere jeweils eine Variable für jeden Monat. Berechne anschließend die durchschnittliche Niederschlagsmenge sowohl in einem Rechenschritt(mit einer Variable z.B. average) als auch in zwei Rechenschritten und gib die Ergebnisse in folgender Form aus:
+# Schreibe ein Programm mit dem Namen Niederschlag, das die durchschnittliche Niederschlagsmenge für die Monate April, Mai und Juni berechnet. 
+# Deklariere und initialisiere jeweils eine Variable für jeden Monat. 
+# Berechne anschließend die durchschnittliche Niederschlagsmenge sowohl in einem Rechenschritt(mit einer Variable z.B. average) als auch in zwei Rechenschritten und 
+# gib die Ergebnisse in folgender Form aus:
 
 # Niederschlag im April : 12
 
