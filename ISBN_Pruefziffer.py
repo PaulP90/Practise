@@ -5,7 +5,7 @@
 
 # Zuerst wird eine Art Quersumme nach folgender Formel gebildet:
 
-# s    =    1*z1 + 2*z2 +  3*z3  + 4*z4  + 5*z5  + 6*z6  +  7*z7  + 8*z8  + 9*z9
+# s = 1*z1 + 2*z2 +  3*z3  + 4*z4  + 5*z5  + 6*z6  +  7*z7  + 8*z8  + 9*z9
 
 # Die Prüfziffer z10 ist der Rest der ganzzahligen Division von s durch 11, also  s % 11.
 
